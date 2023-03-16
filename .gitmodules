@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PermutationR"]
+	path = PermutationR
+	url = https://github.com/ohabdalla1/permutationr
+	shallow = true
+	registered = true
